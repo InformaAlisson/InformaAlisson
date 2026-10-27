@@ -2,6 +2,13 @@
 
 I'm a Full Stack Developer focused on JavaScript. I enjoy building solutions that make people's lives easier and continuously learning new technologies.
 
+
+Projetos Atuais
+### 📫 Current Projects
+[<img width="142" height="45" alt="image" src="https://github.com/user-attachments/assets/a3e838af-75c0-44cf-b9ee-8a64feaf7de7"/>](https://app.sgibycore.com/login)
+[<img width="131" height="41" alt="image" src="https://github.com/user-attachments/assets/f6182630-96cb-487e-8f9c-eb61f37e9d61" />](https://app.sgibycore.com/login)
+
+
 ### 📫 How to reach me
 - 📧 Email: [alisson.delatim@informa.solutions](mailto:alisson.delatim@informa.solutions)
 - 🌐 Portfolio: 🚧 Under construction 🚧
